@@ -1,0 +1,27 @@
+{
+  "name": "ssi2es6template",
+  "version": "1.0.0",
+  "description": "script divert ssi to es6 template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heysdc/ssi2es6template.git"
+  },
+  "keywords": [
+    "ssi"
+  ],
+  "author": "sdc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heysdc/ssi2es6template/issues"
+  },
+  "homepage": "https://github.com/heysdc/ssi2es6template#readme",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "htmlparser": "^1.7.7",
+    "htmlparser-to-html": "^0.0.6"
+  }
+}
